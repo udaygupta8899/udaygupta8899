@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Uday Gupta!
+# 👋 Hi there, I'm Uday Kumar Gupta!
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive programmer, and tech geek currently pursuing my studies at **MNIT Jaipur**. I thrive on solving challenging problems, building AI-powered applications, and exploring deep learning techniques.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive
 - 🤖 **AI/ML Developer** with expertise in deep learning, NLP, and transformers
 - ⚡ **Competitive Programmer** with a strong grasp of **Data Structures & Algorithms**
 - 💡 **Technical Executive** at the **Computer Science Club**
-- 🏆 **LeetCode 500+ Problems Solved**, **1693 Rating** (Top 13.43%)
+- 🏆 **LeetCode 600+ Problems Solved**, **1719 Rating (max)**
 - 📈 **Stock & Crypto Prediction Web App** using **Transformers & Sentiment Analysis**
 - 🏅 **Hackathon Participant** | **Coding Contest Organizer**
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive
 
 ## 🛠️ Tech Stack & Skills
 ### 💻 Programming Languages
-- Python, C++, JavaScript
+- Python, Java, C++
 
 ### 🤖 AI/ML & Deep Learning
 - TensorFlow, PyTorch
@@ -29,14 +29,14 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive
 - Time Series Analysis, Sentiment Analysis
 
 ### 🏆 Competitive Programming
-- Codeforces: **[u/udaygupta8899](https://codeforces.com/profile/udaygupta8899)** (Newbie, 1137)
+- Codeforces: **[u/udaygupta8899](https://codeforces.com/profile/udaygupta8899)** (Newbie, 1147 (max))
 - LeetCode: **200+ days streak badge**
 - Strong grasp of **Trees, Graphs, Dynamic Programming, and Advanced Algorithms**
 
 ### 🖥️ Development & Cloud
 - Web Development: **Streamlit, FastAPI**
 - Deployment: **Streamlit Cloud, AWS, Docker**
-- Databases: **MongoDB, Firebase, SQL**
+- Databases: **MongoDB, SQL**
 
 ### ⚡ Tools & Platforms
 - Git, GitHub, Linux
@@ -68,9 +68,8 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive
 
 ## 📫 Let's Connect!
 - 📧 Email: [udaygupta8899@gmail.com](mailto:udaygupta8899@gmail.com)
-- 💼 LinkedIn: [Uday Gupta](#)
+- 💼 LinkedIn: [Uday Kumar Gupta](https://www.linkedin.com/in/udaygupta8899/)
 - 🏆 Codeforces: [u/udaygupta8899](https://codeforces.com/profile/udaygupta8899)
-- 🐦 Twitter: [@udaygupta_ai](#)
 
 ---
 
