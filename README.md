@@ -6,12 +6,11 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML enthusiast**, competitive
 
 ## 🚀 About Me
 - 🎓 **AI Student** at MNIT Jaipur
-- 🤖 **AI/ML Developer** with expertise in deep learning, NLP, and transformers
+- 🤖 **AI/ML Developer** with expertise in machine learning and genAI
 - ⚡ **Competitive Programmer** with a strong grasp of **Data Structures & Algorithms**
-- 💡 **Technical Executive** at the **Computer Science Club**
-- 🏆 **LeetCode 600+ Problems Solved**, **1719 Rating (max)**
-- 📈 **Stock & Crypto Prediction Web App** using **Transformers & Sentiment Analysis**
-- 🏅 **Hackathon Participant** | **Coding Contest Organizer**
+- 💡 **Joint Secretary** at the **Computer Science Club MNIT**
+- 🏆 **LeetCode 800+ Problems Solved**, **1748 Rating (max)**
+- 🏅 **Coding Contest Organizer**
 
 ---
 
